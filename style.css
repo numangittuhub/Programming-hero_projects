@@ -1,0 +1,27 @@
+*{margin: 0;}
+body{
+    border: 1px solid blue;
+    background-color: rgba(15, 161, 154, 0.322);
+}
+.header{text-align: center;
+    border-radius: 5px;
+    padding: 20px;
+    background-image: url(pic1.png);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: larger;
+    
+}
+div{border-radius: 5px;
+    border: 1px solid;
+    margin: 2px;
+    padding: 10px;
+    text-align: justify;
+    background-color: #B9D4AA;
+}
+img{
+    margin: 10px;
+     border-radius: 90px 0px;}
+     .profile{
+        
+     }
