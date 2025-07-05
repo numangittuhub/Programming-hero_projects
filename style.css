@@ -1,27 +1,43 @@
-*{margin: 0;}
+*{margin: 0;
+  padding: 0;}
 body{
-    border: 1px solid blue;
+    
     background-color: rgba(15, 161, 154, 0.322);
 }
 .header{text-align: center;
-    border-radius: 5px;
+    /* border-radius: 5px; */
     padding: 20px;
     background-image: url(pic1.png);
+    max-height: 200px;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bolder;
-    font-size: larger;
+    font-size: xx-large;
     
 }
-div{border-radius: 5px;
+div{
+    border-radius: 5px;
     border: 1px solid;
-    margin: 2px;
-    padding: 10px;
+    /* margin-left: 2%; */
+    padding:50px 20px 20px 10px;
     text-align: justify;
     background-color: #B9D4AA;
+    width: auto;
+    height: auto;
 }
 img{
     margin: 10px;
-     border-radius: 90px 0px;}
+    border-radius: 20px 0px;
+    cursor: zoom-in;}
      .profile{
-        
+        border-radius: 10px;
+     }
+     #nasheed{
+        margin: 10px;
+        width: auto;
+     }
+     footer{
+
      }
